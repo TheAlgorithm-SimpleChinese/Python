@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/TheAlgorithm-SimpleChinese/">
-    <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/touxiang.jpg" height="100">
+    <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/plane-1828996.svg" height="100">
   </a>
     <h1><a href="https://github.com/TheAlgorithms/">算法</a> - Python--<a href="https://github.com/TheAlgorithm-SimpleChinese/">简体中文版</a></h1>
 <!-- Labels: -->
@@ -41,5 +41,6 @@
 </div>
 
 
-实现它们的目的仅用于学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们。
+
+实现它们的目的仅用于学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们！
 
