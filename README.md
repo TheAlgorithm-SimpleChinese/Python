@@ -3,7 +3,7 @@
   <a href="https://github.com/TheAlgorithm-SimpleChinese/">
     <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/plane-1828996.svg" height="100">
   </a>
-    <h1><a href="https://github.com/TheAlgorithms/">算法</a> - Python--<a href="https://github.com/TheAlgorithm-SimpleChinese/">简体中文版</a></h1>
+    <h1><a>算法</a> - Python - <a>简体中文版</a></h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">
