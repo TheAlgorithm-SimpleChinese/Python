@@ -43,7 +43,7 @@
 
 ### 数据结构
 
-#### 队列
+#### 链表
 
 * [链表的逆序——就地逆序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E5%B0%B1%E5%9C%B0%E9%80%86%E5%BA%8F.py)
 * [链表的逆序——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E9%80%92%E5%BD%92%E6%B3%95.py)
