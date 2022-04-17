@@ -32,7 +32,7 @@
 
 ## 参考链接
 
-**项目参考内容的链接如下，有需要请自行查看：**
+**项目在完成的过程中参考了一些内容，链接如下，有需要请自行查看：**
 
 * **[TheAlgorithms](https://github.com/TheAlgorithms/Python)**
 * **[algorithm](https://github.com/keon/algorithms)**
