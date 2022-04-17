@@ -38,3 +38,24 @@
 * **[algorithm](https://github.com/keon/algorithms)**
 * **[Programmer-Algorithm-Interview-master-Python](https://github.com/liuyang-work/Programmer-Algorithm-Interview-master-Python)**
 * **[The-beauty-of-data-structure-and-algorithm](https://github.com/liuyang-work/The-beauty-of-data-structure-and-algorithm)**
+
+## 算法目录
+
+### 数据结构
+
+#### 队列
+
+* [链表的逆序——就地逆序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E5%B0%B1%E5%9C%B0%E9%80%86%E5%BA%8F.py)
+* [链表的逆序——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E9%80%92%E5%BD%92%E6%B3%95.py)
+* [链表的逆序——插入法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E6%8F%92%E5%85%A5%E6%B3%95.py)
+* [移除无序链表中的重复项——顺序删除](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E7%A7%BB%E9%99%A4%E6%97%A0%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9_%E9%A1%BA%E5%BA%8F%E5%88%A0%E9%99%A4.py)
+* [移除无序链表中的重复项——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E9%80%92%E5%BD%92%E6%B3%95.py)
+
+#### 数组
+
+#### 栈
+
+#### 队列
+
+#### 二叉树
+
