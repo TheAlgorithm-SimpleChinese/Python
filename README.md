@@ -38,8 +38,3 @@
 * **[algorithm](https://github.com/keon/algorithms)**
 * **[Programmer-Algorithm-Interview-master-Python](https://github.com/liuyang-work/Programmer-Algorithm-Interview-master-Python)**
 * **[The-beauty-of-data-structure-and-algorithm](https://github.com/liuyang-work/The-beauty-of-data-structure-and-algorithm)**
-
-## 算法列表
-
-**可以参阅目录来获得导航和了解此项目。**
-
