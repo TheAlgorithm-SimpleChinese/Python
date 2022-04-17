@@ -3,7 +3,7 @@
   <a href="https://github.com/TheAlgorithm-SimpleChinese/">
     <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/plane-1828996.svg" height="100">
   </a>
-    <h1><a href="https://github.com/TheAlgorithms/">算法</a> - Python--<a href="https://github.com/TheAlgorithm-SimpleChinese/">简体中文版</a></h1>
+    <h1><a">算法</a> - Python - 简体中文版</h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">
@@ -40,9 +40,7 @@
   <h3>所有用Python实现的算法仅用于学习</h3>
 </div>
 
-
-
-                        实现这些算法的目的仅用于学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们！
+ <center>实现这些算法的目的仅用于学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们!</center>
 
 ## 原文链接
 
