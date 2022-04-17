@@ -3,7 +3,7 @@
   <a href="https://github.com/TheAlgorithm-SimpleChinese/">
     <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/plane-1828996.svg" height="100">
   </a>
-    <h1><a">算法</a> - Python - 简体中文版</h1>
+    <h1><a">Python - 算法</a> - 简体中文版</h1>
 <!-- Labels: -->
   <!-- First row: -->
   <a>
@@ -41,11 +41,16 @@
 </div>
 
 
+
  <center>实现这些算法的目的仅用于学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们!</center>
 
-## 原文链接
+## 参考链接
 
-**可以点击此处查看原文：[TheAlgorithms](https://github.com/TheAlgorithms/Python)**
+**项目参考内容的链接如下，有需要请自行查看：**
+
+* **[TheAlgorithms](https://github.com/TheAlgorithms/Python)**
+* **[algorithm](https://github.com/keon/algorithms)**
+* **[Programmer-Algorithm-Interview-master-Python](https://github.com/liuyang-work/Programmer-Algorithm-Interview-master-Python)**
 
 ## 算法列表
 
