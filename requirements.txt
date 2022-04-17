@@ -13,7 +13,6 @@ requests
 sklearn
 statsmodels
 sympy
-tensorflow
 texttable
 tweepy
 xgboost
