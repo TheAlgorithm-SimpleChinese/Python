@@ -53,7 +53,7 @@ def Reverse(head):
 
     pre = head  # 前驱结点
     cur = head.next  # 当前结点
-    next = cur.next  # 后继结点
+    # next = cur.next  # 后继结点
     pre.next = None
     # 使当前遍历到的结点cur指向其前驱结点
     while cur is not None:

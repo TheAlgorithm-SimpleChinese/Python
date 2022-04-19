@@ -25,9 +25,9 @@ def Reverse(head):
     # 判断链表是否为空
     if head is None or head.next is None:
         return
-    pre = None  # 前驱结点
-    cur = None  # 当前结点
-    next = None  # 后继结点
+    # pre = None  # 前驱结点
+    # cur = None  # 当前结点
+    # next = None  # 后继结点
     # 把链表首结点变为尾结点
     cur = head.next
     next = cur.next

@@ -28,7 +28,6 @@ def ConstructList():
     i = 1
     head = LNode()
     head.next = None
-    tmp = None
     cur = head
     # 构造第一个链表
     while i < 8:
@@ -59,8 +58,6 @@ def PrintList(head):
 def FindLastK(head, k):
     if head is None or head.next is None:
         return head
-    slow = LNode()
-    fast = LNode()
     slow = head.next
     fast = head.next
     i = 0
@@ -69,14 +66,13 @@ def FindLastK(head, k):
         i += 1
     if i < k:
         return None
-    while fast is not  None:
+    while fast is not None:
         slow = slow.next
         fast = fast.next
     return slow
 
 def main():
     head = ConstructList()  # 链表头指针
-    result = None
     print("链表：", end=" ")
     PrintList(head)
     result = FindLastK(head, 3)
