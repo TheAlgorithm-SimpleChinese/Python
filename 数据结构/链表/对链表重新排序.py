@@ -114,6 +114,7 @@ def main():
     while cur is not None:
         print(cur.data, end=" ")
         cur = cur.next
+    print("")
 
 
 if __name__ == "__main__":
