@@ -52,16 +52,19 @@
 * [移除无序链表中的重复项——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%9A%84%E9%80%86%E5%BA%8F_%E9%80%92%E5%BD%92%E6%B3%95.py)
 * [对链表重新排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/对链表重新排序.py)
 * [将链表向右旋转K个位置](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/将链表向右旋转K个位置.py)
-* [找出单链表中的倒数第K个元素_快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
+* [找出单链表中的倒数第K个元素——快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
 * [检测单链表是否有环且找出环入口](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/检测单链表是否有环且找出环入口.py)
 * [链表相邻元素翻转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/链表/链表相邻元素翻转.py)
 
 #### 数组
 
-* [找出数组中元素的最大值和最小值_分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%88%86%E6%B2%BB%E6%B3%95.py)
-* [找出数组中元素的最大值和最小值_变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%8F%98%E5%BD%A2%E7%9A%84%E5%88%86%E6%B2%BB%E6%B3%95.py)
+* [找出数组中元素的最大值和最小值——分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%88%86%E6%B2%BB%E6%B3%95.py)
+* [找出数组中元素的最大值和最小值——变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%8F%98%E5%BD%A2%E7%9A%84%E5%88%86%E6%B2%BB%E6%B3%95.py)
 
 #### 栈
+
+* [实现栈——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_数组实现.py)
+* [实现栈——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_链表实现.py)
 
 #### 队列
 
