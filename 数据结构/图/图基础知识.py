@@ -319,7 +319,7 @@ def krusk(E_and_n):
                 break
 
 
-# 找出图的的孤立节点
+# 找出图的的孤立的节点
 def find_isolated_nodes(graph):
     isolated = []
     for node in graph:
