@@ -17,7 +17,7 @@
 
 # 快慢指针法
 class LNode:
-    def __init__(self, data=0, next=None):
+    def __init__(self, data=0, next=None):  # 节点数据统一以整数作为示例且初始值为0
         self.data = data
         self.next = next
 
@@ -71,6 +71,7 @@ def FindLastK(head, k):
         fast = fast.next
     return slow
 
+
 def main():
     head = ConstructList()  # 链表头指针
     print("链表：", end=" ")
@@ -78,6 +79,7 @@ def main():
     result = FindLastK(head, 3)
     if result is not None:
         print("\n链表倒数第3个元素为：" + str(result.data))
+
 
 if __name__ == "__main__":
     main()

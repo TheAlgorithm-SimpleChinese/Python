@@ -15,7 +15,7 @@
 class Node:
     """创建节点类"""
 
-    def __init__(self, data: int, next=None):
+    def __init__(self, data: int, next=None):  # 节点数据统一以整数作为示例且初始值为0
         self.data = data
         self.next = next
 

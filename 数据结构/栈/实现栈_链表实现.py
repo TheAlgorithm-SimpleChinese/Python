@@ -13,7 +13,7 @@
 
 
 class LNode:
-    def __init__(self, data, next=None):
+    def __init__(self, data=0, next=None):  # 节点数据统一以整数作为示例
         self.data = data
         self.next = next
 

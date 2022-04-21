@@ -16,7 +16,7 @@
 class Node:
     """创建节点类"""
 
-    def __init__(self, data=0, next=None):
+    def __init__(self, data=0, next=None):  # 节点数据统一以整数作为示例且初始值为0
         self.data = data
         self.next = next
 
@@ -47,7 +47,7 @@ def main():
     head.next = None
     tmp = None
     cur = head
-    while i < 7:    # 初始化链表
+    while i < 7:  # 初始化链表
         tmp = Node()
         if i % 2 == 0:
             tmp.data = i + 1

@@ -15,7 +15,7 @@
 class Node:
     """创建节点类"""
 
-    def __init__(self, data: int, next=None):
+    def __init__(self, data: int, next=None):  # 节点数据统一以整数作为示例且初始值为0
         self.data = data
         self.next = next
 
@@ -47,7 +47,6 @@ def ReversePrint(firstNode):
 
 
 def main():
-
     head = Node(7, None)  # 创建头节点，存储节点个数
     cur = head
     for i in range(1, 8):  # 创建节点

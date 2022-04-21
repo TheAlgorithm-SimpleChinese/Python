@@ -10,7 +10,7 @@
 
 # 引申：如何将单链表向右旋转k个位置
 class LNode:
-    def __init__(self, data=0, next=None):
+    def __init__(self, data=0, next=None):  # 节点数据统一以整数作为示例且初始值为0
         self.data = data
         self.next = next
 
