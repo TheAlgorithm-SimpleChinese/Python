@@ -20,7 +20,7 @@ class BiTNode:
 
 
 # 遍历二叉树
-def display(tree: BiTNode) -> None:  # 安顺序遍历二叉树
+def display(tree: BiTNode) -> None:  # 按顺序遍历二叉树
 
     if tree:
         display(tree.lchild)
