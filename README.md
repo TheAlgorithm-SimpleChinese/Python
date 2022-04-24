@@ -60,6 +60,9 @@
 
 * [找出数组中元素的最大值和最小值——分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%88%86%E6%B2%BB%E6%B3%95.py)
 * [找出数组中元素的最大值和最小值——变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E7%BB%84/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E5%92%8C%E6%9C%80%E5%B0%8F%E5%80%BC_%E5%8F%98%E5%BD%A2%E7%9A%84%E5%88%86%E6%B2%BB%E6%B3%95.py)
+* [找出数组中唯一的重复元素_空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/数组/找出数组中唯一的重复元素_空间换时间法.py)
+* [找出数组中唯一的重复元素_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/数组/找出数组中唯一的重复元素_异或法.py)
+* [找出数组中唯一的重复元素_数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/数组/找出数组中唯一的重复元素_数据映射法.py)
 
 #### 栈
 
