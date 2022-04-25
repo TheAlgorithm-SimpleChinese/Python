@@ -81,3 +81,7 @@
 #### 图
 
 * [图基础知识](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/图/图基础知识.py)
+
+#### 字符串
+
+* [求一个字符串的所有排列_递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求一个字符串的所有排列_递归法.py)
