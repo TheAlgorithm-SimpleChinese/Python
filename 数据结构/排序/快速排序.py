@@ -32,12 +32,8 @@ def quick_sort(lists, left, right):
 
 def main():
     lists = [3, 4, 2, 8, 9, 5, 1]  # 测试列表
-    print('排序前序列为:')
-    for i in lists:
-        print(i, end=" ")
-    print('\n排序后结果为:')
-    for i in (quick_sort(lists, 0, len(lists) - 1)):
-        print(i, end=" ")
+    print('排序前序列为:', lists)
+    print('\n排序后结果为:', quick_sort(lists, 0, len(lists) - 1))
 
 
 if __name__ == "__main__":

@@ -25,12 +25,8 @@ def select_sort(sortedlist):
 
 def main():
     lists = [3, 4, 2, 8, 9, 5, 1]  # 测试列表
-    print('排序前序列为:')
-    for i in lists:
-        print(i, end=" ")
-    print('\n排序后结果为:')
-    for i in (select_sort(lists)):
-        print(i, end=" ")
+    print('排序前序列为:', lists)
+    print('\n排序后结果为:', select_sort(lists))
 
 
 if __name__ == "__main__":
