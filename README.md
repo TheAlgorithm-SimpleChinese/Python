@@ -32,7 +32,7 @@
 
 ## 参考链接
 
-**我的个人网站:[https://iwtmbtly.com/](https://iwtmbtly.com/)**
+**我的个人网站:[https://iwtmbtly.com](https://iwtmbtly.com)**
 
 **项目在完成的过程中参考了一些内容，链接如下，如有需要可自行查看：**
 
