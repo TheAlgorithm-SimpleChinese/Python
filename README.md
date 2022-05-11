@@ -87,6 +87,12 @@
 #### 字符串
 
 * [求一个字符串的所有排列——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求一个字符串的所有排列_递归法.py)
+* [对字符串进行反转——临时变量法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/对字符串进行反转_临时变量法.py)
+* [对字符串进行反转——直接交换法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/对字符串进行反转_直接交换法.py)
+* [句子中的单词反转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/句子中的单词反转.py)
+* [求两个字符串的最长公共子串——动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求两个字符串的最长公共子串_动态规划法.py)
+* [求两个字符串的最长公共子串——滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求两个字符串的最长公共子串_滑动比较法.py)
+* [实现字符串的匹配](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串的匹配.py)
 
 #### 排序
 
@@ -98,6 +104,10 @@
 * [希尔排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/排序/希尔排序.py)
 * [堆排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/排序/堆排序.py)
 * [基数排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/排序/基数排序.py)
+* [桶排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/排序/桶排序.py)
+* [计数排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/排序/计数排序.py)
+
+
 
 
 
