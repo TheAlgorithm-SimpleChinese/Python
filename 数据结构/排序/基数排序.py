@@ -5,6 +5,9 @@
 @file: 基数排序.py
 @time: 2022/4/27 21:12
 """
+"""
+算法功能：基数排序
+"""
 
 
 # 基数排序(Cardinality Sorting)
@@ -45,3 +48,13 @@ def cardinality_sort(arr):
         arr = res
         currentBit *= 10
     return arr
+
+
+def main():
+    list = [3, 4, 2, 8, 9, 5, 1]
+    print("排序前序列为：", list)
+    print("排序后序列为：", cardinality_sort(list))
+
+
+if __name__ == '__main__':
+    main()

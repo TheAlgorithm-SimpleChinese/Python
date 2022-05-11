@@ -50,4 +50,3 @@ def main():
 
 if __name__ == "__main__":  # 书中两个等号之间有空白
     main()
-
