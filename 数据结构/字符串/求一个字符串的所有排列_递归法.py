@@ -19,7 +19,6 @@ def swap(str, i, j):
 输入参数：str为待排序的字符串，start为待排序的子字符串的首字符下标
 """
 
-
 def Permutation(str, start):
     if str is None or start < 0:  # 字符串为空或者首字符下标小于零
         return
