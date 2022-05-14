@@ -2,6 +2,6 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 实现字符串的匹配.py
-@time: 2022/5/8 23:30
+@file: 实现字符串匹配_KMP.py
+@time: 2022/5/14 22:45
 """
