@@ -92,7 +92,8 @@
 * [句子中的单词反转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/句子中的单词反转.py)
 * [求两个字符串的最长公共子串——动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求两个字符串的最长公共子串_动态规划法.py)
 * [求两个字符串的最长公共子串——滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求两个字符串的最长公共子串_滑动比较法.py)
-* [实现字符串的匹配](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串的匹配.py)
+* [实现字符串的匹配——直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串的匹配.py)
+* [实现字符串匹配——KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串匹配_KMP.py)
 
 #### 排序
 
