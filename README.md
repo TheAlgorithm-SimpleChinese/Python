@@ -71,6 +71,7 @@
 
 * [实现栈——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_数组实现.py)
 * [实现栈——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_链表实现.py)
+* [反转栈的所有元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/反转栈的所有元素.py)
 
 #### 队列
 
