@@ -96,6 +96,8 @@
 * [求两个字符串的最长公共子串——滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/求两个字符串的最长公共子串_滑动比较法.py)
 * [实现字符串的匹配——直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串的匹配.py)
 * [实现字符串匹配——KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串匹配_KMP.py)
+* [判断一个字符串是否包含重复字符——暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/判断一个字符串是否包含重复字符_暴力法.py)
+* [判断一个字符串是否包含重复字符——空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
 
 #### 排序
 
