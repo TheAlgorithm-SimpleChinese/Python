@@ -76,6 +76,8 @@
 * [实现栈——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_数组实现.py)
 * [实现栈——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/实现栈_链表实现.py)
 * [反转栈的所有元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/栈/反转栈的所有元素.py)
+* [用O(1)时间复杂度求栈中最小元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用O(1)时间复杂度求栈中最小元素.py)
+* [用两个栈模拟队列操作](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用两个栈模拟队列操作.py)
 
 #### 队列
 
