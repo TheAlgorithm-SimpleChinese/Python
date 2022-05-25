@@ -68,6 +68,8 @@
 * [找出数组中唯一的重复元素——数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/数组/找出数组中唯一的重复元素_数据映射法.py)
 * [找出数组中丢失的数——累加求和法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_累加求和法.py)
 * [找出数组中丢失的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
+* [找出数组中出现奇数次的数——字典法.](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
+* [找出数组中出现奇数次的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
 
 #### 栈
 
