@@ -2,7 +2,7 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 设计一个排序系统.py
+@file: 设计一个排队系统.py
 @time: 2022/5/28 22:41
 """
 """
