@@ -11,7 +11,7 @@
 def check_prime(number):
     """
     判断一个数是否是素数（这不是最好的办法）
-    如是0或者1 则返回2,2则返回3
+    如是实参是0或者1,则返回2,实参是2则返回3
     """
     special_non_primes = [0, 1, 2]
     if number in special_non_primes[:2]:
