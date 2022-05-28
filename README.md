@@ -83,6 +83,7 @@
 
 * [实现队列——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/队列/实现队列_数组实现.py)
 * [实现队列——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/队列/实现队列_链表实现.py)
+* [设计一个排队系统](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/设计一个排队系统.py)
 
 #### 二叉树
 
