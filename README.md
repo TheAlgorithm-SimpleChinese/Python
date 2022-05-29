@@ -85,6 +85,13 @@
 * [实现队列——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/队列/实现队列_链表实现.py)
 * [设计一个排队系统](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/设计一个排队系统.py)
 
+#### 哈希（散列）
+
+* [散列表基础](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/哈希(散列)/散列表基础.py)
+* [实现LRU缓存方案](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/哈希(散列)/实现LRU缓存方案.py)
+* [从给定的车票中找出旅程](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/哈希(散列)/从给定的车票中找出旅程.py)
+* [从数组中找出满足a+b=c+d的两个数对](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/哈希(散列)/从数组中找出满足a%2Bb%3Dc%2Bd的两个数对.py)
+
 #### 二叉树
 
 * [二叉树基础知识](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/二叉树/二叉树基础知识.py)
