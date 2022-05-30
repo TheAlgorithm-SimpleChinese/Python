@@ -70,6 +70,7 @@
 * [找出数组中丢失的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
 * [找出数组中出现奇数次的数——字典法.](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
 * [找出数组中出现奇数次的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
+* [在不排序的情况下求数组中的中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/在不排序的情况下求数组中的中位数.py)
 
 #### 栈
 
