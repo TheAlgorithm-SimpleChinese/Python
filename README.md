@@ -71,6 +71,8 @@
 * [找出数组中出现奇数次的数——字典法.](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
 * [找出数组中出现奇数次的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
 * [在不排序的情况下求数组中的中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/在不排序的情况下求数组中的中位数.py)
+* [求数组中绝对值最小的数——顺序比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_顺序比较法.py)
+* [求数组中绝对值最小的数——二分法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_二分法.py)
 
 #### 栈
 
@@ -113,6 +115,7 @@
 * [实现字符串匹配——KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/实现字符串匹配_KMP.py)
 * [判断一个字符串是否包含重复字符——暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/判断一个字符串是否包含重复字符_暴力法.py)
 * [判断一个字符串是否包含重复字符——空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
+* [统计字符串连续的重复字符个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/统计字符串连续的重复字符个数.py)
 
 #### 排序
 
