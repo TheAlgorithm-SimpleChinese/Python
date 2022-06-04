@@ -14,11 +14,7 @@
 def isContain(s1, s2):
     k = 0  # 字母对应数组的下标
     # 用来记录52个字母的出现情况
-    flag = [None] * 52
-    i = 0
-    while i < 52:
-        flag[i] = 0
-        i += 1
+    flag = [0 for _ in range(52)]
     count = 0  # 记录段字符串中不同字符出现的个数
     len1 = len(s1)
     len2 = len(s2)
@@ -38,7 +34,7 @@ def isContain(s1, s2):
     i = 0
     while i < minLen:
         # 把字符转换成数组对应的下标（大写字母0～25，小写字母26～51）
-        if ord(list(shortStr)[i]) >= ord('A') and ord(list(shortStr)[i]) <= ord('Z'):
+        if ord('A') <= ord(list(shortStr)[i]) <= ord('Z'):
             k = ord(list(shortStr)[i]) - ord('A')
         else:
             k = ord(list(shortStr)[i]) - ord('a') + 26
@@ -49,7 +45,7 @@ def isContain(s1, s2):
         # 遍历长字符串
     j = 0
     while j < maxLen:
-        if ord(list(longStr)[j]) >= ord('A') and ord(list(longStr)[j]) <= ord('Z'):
+        if ord('A') <= ord(list(longStr)[j]) <= ord('Z'):
             k = ord(list(longStr)[j]) - ord('A')
         else:
             k = ord(list(longStr)[j]) - ord('a') + 26
@@ -66,11 +62,8 @@ if __name__ == "__main__":
     str1 = "abcdef"
     str2 = "acf"
     isContain = isContain(str1, str2)
-    print
-    str1 + "与" + str2,
+    print(str1 + "与" + str2)
     if isContain:
-        print
-        "有包含关系"
+        print("有包含关系")
     else:
-        print
-        "没有包含关系"
+        print("没有包含关系")
