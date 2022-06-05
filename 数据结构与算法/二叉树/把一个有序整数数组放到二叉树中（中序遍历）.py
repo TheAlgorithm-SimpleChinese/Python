@@ -2,11 +2,11 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 把一个有序整数数组放到二叉树中.py
+@file: 把一个有序整数数组放到二叉树中（中序遍历）.py
 @time: 2022/6/5 19:17
 """
 """
-程序功能：把一个有序整数数组放到二叉树中
+程序功能：把一个有序整数数组放到二叉树中(中序遍历)
 """
 
 
@@ -45,7 +45,7 @@ def printTreeMidOrder(root):
     if root.lchild is not None:
         printTreeMidOrder(root.lchild)
     # 遍历root结点
-    print(root.data)
+    print(root.data, end=" ")
     # 遍历root结点的右子树
     if root.rchild is not None:
         printTreeMidOrder(root.rchild)
@@ -53,14 +53,14 @@ def printTreeMidOrder(root):
 
 def main():
     arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    print("数组：")
+    print("数组：", end="")
     i = 0
     while i < len(arr):
-        print(arr[i])
+        print(arr[i], end=" ")
         i += 1
     print('\n')
     root = array_to_tree(arr, 0, len(arr) - 1)
-    print("转换成树的中序遍历为:")
+    print("转换成树的中序遍历为:", end="")
     printTreeMidOrder(root)
     print('\n')
 
