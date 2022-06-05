@@ -19,13 +19,53 @@ class BiTNode:
         self.rchild = rchild
 
 
-# 遍历二叉树
-def display(tree: BiTNode) -> None:  # 按照顺序遍历二叉树
+"""
+二叉树的遍历
+"""
 
+
+# 定义广度优先遍历(层次遍历)方法
+def breadth_travel(tree: BiTNode):
+    if tree is None:
+        return
+    else:
+        # 仍然是用队列的方式实现遍历，末端按遍历顺序逐个添加节点，首端逐个弹出先读到的节点
+        queue = [tree]
+        while queue:
+            cur = queue.pop(0)
+            print(cur.data, end=" ")
+            if cur.lchild is not None:
+                queue.append(cur.lchild)
+            if cur.rchild is not None:
+                queue.append(cur.rchild)
+
+
+# 定义深度优先遍历中的先序遍历
+def preorder(tree: BiTNode) -> None:
+    if tree is None:
+        return
+    else:
+        print(tree.data, end=" ")
+        preorder(tree.lchild)
+        preorder(tree.rchild)
+
+
+# 定义深度优先遍历中的中序遍历
+def inorder(tree: BiTNode) -> None:
     if tree:
-        display(tree.lchild)
-        print(tree.data)
-        display(tree.rchild)
+        inorder(tree.lchild)
+        print(tree.data, end=" ")
+        inorder(tree.rchild)
+
+
+# 定义深度优先遍历中的后序遍历
+def postorder(tree: BiTNode) -> None:
+    if tree is None:
+        return
+    else:
+        postorder(tree.lchild)
+        postorder(tree.rchild)
+        print(tree.data, end=" ")
 
 
 # 二叉树深度
@@ -58,7 +98,13 @@ def main() -> None:  # 测试主函数
     print(is_full_binary_tree(tree))  # 判断是否是完全二叉树
     print(depth_of_tree(tree))  # 返回二叉树深度
     print("Tree is: ")
-    display(tree)  # 遍历二叉树
+    preorder(tree)  # 前序遍历
+    print("\n")
+    inorder(tree)  # 中序遍历
+    print("\n")
+    postorder(tree)  # 后续遍历
+    print("\n")
+    breadth_travel(tree)  # 层次遍历
 
 
 if __name__ == "__main__":
