@@ -43,7 +43,7 @@
 * [移除无序链表中的重复项——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/移除无序链表中的重复项_递归法.py)
 * [对链表重新排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/对链表重新排序.py)
 * [将链表向右旋转K个位置](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/将链表向右旋转K个位置.py)
-* [找出单链表中的倒数第K个元素_快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
+* [找出单链表中的倒数第K个元素——快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
 * [检测单链表是否有环且找出环入口](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/检测单链表是否有环且找出环入口.py)
 * [链表相邻元素翻转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/链表相邻元素翻转.py)
 * [合并两个有序链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/合并两个有序链表.py)
