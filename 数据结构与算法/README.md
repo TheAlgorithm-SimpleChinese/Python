@@ -65,16 +65,16 @@
 
 #### 栈
 
-* [实现栈_数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_数组实现.py)
-* [实现栈_链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_链表实现.py)
+* [实现栈——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_数组实现.py)
+* [实现栈——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_链表实现.py)
 * [反转栈的所有元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/反转栈的所有元素.py)
 * [用O(1)时间复杂度求栈中最小元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用O(1)时间复杂度求栈中最小元素.py)
 * [用两个栈模拟队列操作](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用两个栈模拟队列操作.py)
 
 #### 队列
 
-* [实现队列_数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_数组实现.py)
-* [实现队列_链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_链表实现.py)
+* [实现队列——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_数组实现.py)
+* [实现队列——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_链表实现.py)
 * [设计一个排队系统](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/设计一个排队系统.py)
 
 #### 哈希（散列）
@@ -96,19 +96,19 @@
 
 #### 字符串
 
-* [求一个字符串的所有排列_递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求一个字符串的所有排列_递归法.py)
-* [对字符串进行反转_临时变量法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_临时变量法.py)
-* [对字符串进行反转_直接交换法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_直接交换法.py)
+* [求一个字符串的所有排列——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求一个字符串的所有排列_递归法.py)
+* [对字符串进行反转——临时变量法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_临时变量法.py)
+* [对字符串进行反转——直接交换法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_直接交换法.py)
 * [句子中的单词反转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/句子中的单词反转.py)
-* [求两个字符串的最长公共子串_动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_动态规划法.py)
-* [求两个字符串的最长公共子串_滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_滑动比较法.py)
-* [实现字符串的匹配_直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串的匹配_直接计算法.py)
-* [实现字符串匹配_KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串匹配_KMP.py)
-* [判断一个字符串是否包含重复字符_暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_暴力法.py)
-* [判断一个字符串是否包含重复字符_空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
+* [求两个字符串的最长公共子串——动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_动态规划法.py)
+* [求两个字符串的最长公共子串——滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_滑动比较法.py)
+* [实现字符串的匹配——直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串的匹配_直接计算法.py)
+* [实现字符串匹配——KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串匹配_KMP.py)
+* [判断一个字符串是否包含重复字符——暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_暴力法.py)
+* [判断一个字符串是否包含重复字符——空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
 * [统计字符串连续的重复字符个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/统计字符串连续的重复字符个数.py)
-* [判断两个字符串的包含关系_直接法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_直接法.py)
-* [判断两个字符串的包含关系_空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_空间换时间法.py)
+* [判断两个字符串的包含关系——直接法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_直接法.py)
+* [判断两个字符串的包含关系——空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_空间换时间法.py)
 
 #### 排序
 
