@@ -52,16 +52,16 @@
 
 * [找出数组中元素的最大值和最小值——分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的最大值和最小值_分治法.py)
 * [找出数组中元素的的最大值和最小值_变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的的最大值和最小值_变形的分治法.py)
-* [找出数组中唯一的重复元素_空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_空间换时间法.py)
-* [找出数组中唯一的重复元素_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_异或法.py)
-* [找出数组中唯一的重复元素_数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_数据映射法.py)
-* [找出数组中丢失的数_累加求和法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_累加求和法.py)
-* [找出数组中丢失的数_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
-* [找出数组中出现奇数次的数_字典法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
-* [找出数组中出现奇数次的数_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
+* [找出数组中唯一的重复元素——空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_空间换时间法.py)
+* [找出数组中唯一的重复元素——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_异或法.py)
+* [找出数组中唯一的重复元素——数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_数据映射法.py)
+* [找出数组中丢失的数——累加求和法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_累加求和法.py)
+* [找出数组中丢失的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
+* [找出数组中出现奇数次的数——字典法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
+* [找出数组中出现奇数次的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
 * [在不排序的情况下求数组中的中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/在不排序的情况下求数组中的中位数.py)
-* [求数组中绝对值最小的数_顺序比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_顺序比较法.py)
-* [求数组中绝对值最小的数_二分法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_二分法.py)
+* [求数组中绝对值最小的数——顺序比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_顺序比较法.py)
+* [求数组中绝对值最小的数——二分法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_二分法.py)
 
 #### 栈
 
