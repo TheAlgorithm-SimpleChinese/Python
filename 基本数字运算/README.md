@@ -34,8 +34,8 @@
 
 ### 基本数字运算
 
-* [判断一个自然数是否是某个数的平方_直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_直接计算法.py)
-* [判断一个自然数是否是某个数的平方_减法运算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_减法运算法.py)
-* [判断一个自然数是否是某个数的平方_二分查找法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_二分查找法.py)
-* [判断一个数是否为2的n次方_构造法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个数是否为2的n次方_构造法.py)
-* [判断一个数是否为2的n次方_与操作法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个数是否为2的n次方_与操作法.py)
+* [判断一个自然数是否是某个数的平方——直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_直接计算法.py)
+* [判断一个自然数是否是某个数的平方——减法运算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_减法运算法.py)
+* [判断一个自然数是否是某个数的平方——二分查找法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个自然数是否是某个数的平方_二分查找法.py)
+* [判断一个数是否为2的n次方——构造法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个数是否为2的n次方_构造法.py)
+* [判断一个数是否为2的n次方——与操作法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/判断一个数是否为2的n次方_与操作法.py)
