@@ -43,38 +43,38 @@
 * [移除无序链表中的重复项——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/移除无序链表中的重复项_递归法.py)
 * [对链表重新排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/对链表重新排序.py)
 * [将链表向右旋转K个位置](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/将链表向右旋转K个位置.py)
-* [找出单链表中的倒数第K个元素_快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
+* [找出单链表中的倒数第K个元素——快慢指针法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/找出单链表中的倒数第K个元素_快慢指针法.py)
 * [检测单链表是否有环且找出环入口](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/检测单链表是否有环且找出环入口.py)
 * [链表相邻元素翻转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/链表相邻元素翻转.py)
 * [合并两个有序链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/链表/合并两个有序链表.py)
 
 #### 数组
 
-* [找出数组中元素的最大值和最小值_分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的最大值和最小值_分治法.py)
-* [找出数组中元素的的最大值和最小值_变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的的最大值和最小值_变形的分治法.py)
-* [找出数组中唯一的重复元素_空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_空间换时间法.py)
-* [找出数组中唯一的重复元素_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_异或法.py)
-* [找出数组中唯一的重复元素_数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_数据映射法.py)
-* [找出数组中丢失的数_累加求和法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_累加求和法.py)
-* [找出数组中丢失的数_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
-* [找出数组中出现奇数次的数_字典法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
-* [找出数组中出现奇数次的数_异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
+* [找出数组中元素的最大值和最小值——分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的最大值和最小值_分治法.py)
+* [找出数组中元素的的最大值和最小值——变形的分治法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中元素的的最大值和最小值_变形的分治法.py)
+* [找出数组中唯一的重复元素——空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_空间换时间法.py)
+* [找出数组中唯一的重复元素——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_异或法.py)
+* [找出数组中唯一的重复元素——数据映射法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中唯一的重复元素_数据映射法.py)
+* [找出数组中丢失的数——累加求和法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_累加求和法.py)
+* [找出数组中丢失的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中丢失的数_异或法.py)
+* [找出数组中出现奇数次的数——字典法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_字典法.py)
+* [找出数组中出现奇数次的数——异或法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/找出数组中出现奇数次的数_异或法.py)
 * [在不排序的情况下求数组中的中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/在不排序的情况下求数组中的中位数.py)
-* [求数组中绝对值最小的数_顺序比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_顺序比较法.py)
-* [求数组中绝对值最小的数_二分法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_二分法.py)
+* [求数组中绝对值最小的数——顺序比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_顺序比较法.py)
+* [求数组中绝对值最小的数——二分法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/数组/求数组中绝对值最小的数_二分法.py)
 
 #### 栈
 
-* [实现栈_数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_数组实现.py)
-* [实现栈_链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_链表实现.py)
+* [实现栈——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_数组实现.py)
+* [实现栈——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/实现栈_链表实现.py)
 * [反转栈的所有元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/反转栈的所有元素.py)
 * [用O(1)时间复杂度求栈中最小元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用O(1)时间复杂度求栈中最小元素.py)
 * [用两个栈模拟队列操作](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/栈/用两个栈模拟队列操作.py)
 
 #### 队列
 
-* [实现队列_数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_数组实现.py)
-* [实现队列_链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_链表实现.py)
+* [实现队列——数组实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_数组实现.py)
+* [实现队列——链表实现](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/实现队列_链表实现.py)
 * [设计一个排队系统](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/队列/设计一个排队系统.py)
 
 #### 哈希（散列）
@@ -96,19 +96,19 @@
 
 #### 字符串
 
-* [求一个字符串的所有排列_递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求一个字符串的所有排列_递归法.py)
-* [对字符串进行反转_临时变量法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_临时变量法.py)
-* [对字符串进行反转_直接交换法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_直接交换法.py)
+* [求一个字符串的所有排列——递归法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求一个字符串的所有排列_递归法.py)
+* [对字符串进行反转——临时变量法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_临时变量法.py)
+* [对字符串进行反转——直接交换法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/对字符串进行反转_直接交换法.py)
 * [句子中的单词反转](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/句子中的单词反转.py)
-* [求两个字符串的最长公共子串_动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_动态规划法.py)
-* [求两个字符串的最长公共子串_滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_滑动比较法.py)
-* [实现字符串的匹配_直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串的匹配_直接计算法.py)
-* [实现字符串匹配_KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串匹配_KMP.py)
-* [判断一个字符串是否包含重复字符_暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_暴力法.py)
-* [判断一个字符串是否包含重复字符_空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
+* [求两个字符串的最长公共子串——动态规划法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_动态规划法.py)
+* [求两个字符串的最长公共子串——滑动比较法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/求两个字符串的最长公共子串_滑动比较法.py)
+* [实现字符串的匹配——直接计算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串的匹配_直接计算法.py)
+* [实现字符串匹配——KMP](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/实现字符串匹配_KMP.py)
+* [判断一个字符串是否包含重复字符——暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_暴力法.py)
+* [判断一个字符串是否包含重复字符——空间换时间](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否包含重复字符_空间换时间.py)
 * [统计字符串连续的重复字符个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/统计字符串连续的重复字符个数.py)
-* [判断两个字符串的包含关系_直接法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_直接法.py)
-* [判断两个字符串的包含关系_空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_空间换时间法.py)
+* [判断两个字符串的包含关系——直接法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_直接法.py)
+* [判断两个字符串的包含关系——空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_空间换时间法.py)
 
 #### 排序
 
