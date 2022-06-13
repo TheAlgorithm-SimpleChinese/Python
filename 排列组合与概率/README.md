@@ -35,6 +35,7 @@
 ### 排列组合与概率
 
 * [求正整数n所有可能的整数组合](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/求正整数n所有可能的整数组合.py)
+* [求数字的组合](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/求数字的组合.py)
 
 
 
