@@ -44,3 +44,6 @@
 * [不用加减乘除运算实现乘法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/不用加减乘除运算实现乘法.py)
 * [不使用除法操作符实现两个正整数的除法——减法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/不使用除法操作符实现两个正整数的除法_减法.py)
 * [不使用除法操作符实现两个正整数的除法——移位法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/不使用除法操作符实现两个正整数的除法_移位法.py)
+* [计算一个数的n次方_暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/计算一个数的n次方_暴力法.py)
+* [计算一个数的n次方_递归法.](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/计算一个数的n次方_递归法.py)
+* [不使用循环输出1到100](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/基本数字运算/不使用循环输出1到100.py)

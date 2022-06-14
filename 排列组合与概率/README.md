@@ -36,6 +36,8 @@
 
 * [求正整数n所有可能的整数组合](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/求正整数n所有可能的整数组合.py)
 * [求数字的组合](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/求数字的组合.py)
+* [用一个随机函数得到另一个随机函数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/用一个随机函数得到另一个随机函数.py)
+* [等概率的从大小为in的数组中选取m个整数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/等概率的从大小为in的数组中选取m个整数.py)
 
 
 
