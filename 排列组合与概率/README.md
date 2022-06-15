@@ -38,6 +38,9 @@
 * [求数字的组合](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/求数字的组合.py)
 * [用一个随机函数得到另一个随机函数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/用一个随机函数得到另一个随机函数.py)
 * [等概率的从大小为in的数组中选取m个整数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/等概率的从大小为in的数组中选取m个整数.py)
+* [判断还有几盏灯泡亮着](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/判断还有几盏灯泡亮着.py)
+* [拿到最多的金币](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/拿到最多的金币.py)
+* [组合1,2,5这三个数使其和为100](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/排列组合与概率/组合1%2C2%2C5这三个数使其和为100.py)
 
 
 
