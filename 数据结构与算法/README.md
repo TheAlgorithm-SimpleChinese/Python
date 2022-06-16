@@ -89,6 +89,7 @@
 * [二叉树基础知识](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/二叉树/二叉树基础知识.py)
 * [从顶层开始逐层打印二叉树节点数据（层序遍历）](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/二叉树/从顶层开始逐层打印二叉树节点数据（层序遍历）.py)
 * [把一个有序整数数组放到二叉树中（中序遍历）](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/二叉树/把一个有序整数数组放到二叉树中（中序遍历）.py)
+* [在二叉树中找出路径最大的和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/二叉树/在二叉树中找出路径最大的和.py)
 
 #### 图
 
