@@ -111,6 +111,7 @@
 * [统计字符串连续的重复字符个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/统计字符串连续的重复字符个数.py)
 * [判断两个字符串的包含关系——直接法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_直接法.py)
 * [判断两个字符串的包含关系——空间换时间法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断两个字符串的包含关系_空间换时间法.py)
+* [判断一个字符串是否由另外一个字符串旋转得到](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/数据结构与算法/字符串/判断一个字符串是否由另外一个字符串旋转得到.py)
 
 #### 排序
 
