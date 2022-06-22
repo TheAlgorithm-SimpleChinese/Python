@@ -49,3 +49,11 @@
 
 ### [排列组合与概率](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B8%8E%E6%A6%82%E7%8E%87/README.md)
 
+### [Pythontip算法题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip%E7%AE%97%E6%B3%95%E9%A2%98/README.md)
+
+### [LeetCode算法题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode%E7%AE%97%E6%B3%95%E9%A2%98/README.md)
+
+
+
+
+
