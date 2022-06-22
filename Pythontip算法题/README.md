@@ -34,12 +34,17 @@
 
 ### Pythontip算法题
 
+#### 简单
+
 * [a+b](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/a%2Bb.py)
+
+#### 中等
+
 * [列表排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/列表排序.py)
 * [字符串逆序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/字符串逆序.py)
 * [输出字典key](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/输出字典key.py)
 
-
+#### 困难
 
 
 
