@@ -40,8 +40,8 @@
 * **[algorithm](https://github.com/keon/algorithms)**
 * **[Programmer-Algorithm-Interview-master-Python](https://github.com/liuyang-work/Programmer-Algorithm-Interview-master-Python)**
 * **[The-beauty-of-data-structure-and-algorithm](https://github.com/liuyang-work/The-beauty-of-data-structure-and-algorithm)**
-* **Pythontip**
-* **LeetCode**
+* **[Pythontip](http://www.pythontip.com/coding/code_oj)**
+* **[LeetCode](https://leetcode-cn.com/problem-list/2cktkvj/)**
 ## 算法目录
 
 ### [数据结构与算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/README.md)
