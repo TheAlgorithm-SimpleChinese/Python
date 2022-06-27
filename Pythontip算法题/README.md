@@ -43,6 +43,12 @@
 * [列表排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/列表排序.py)
 * [字符串逆序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/字符串逆序.py)
 * [输出字典key](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/输出字典key.py)
+* [输出字符串奇数位置的字符串](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/输出字符串奇数位置的字符串.py)
+* [求解100以内的所有素数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/求解100以内的所有素数.py)
+* [求矩形面积](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/求矩形面积.py)
+* [求中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/求中位数.py)
+* [最大公约数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最大公约数.py)
+* [最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最小公倍数.py)
 
 #### 困难
 
