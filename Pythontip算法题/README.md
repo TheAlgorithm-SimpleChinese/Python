@@ -49,6 +49,7 @@
 * [求中位数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/求中位数.py)
 * [最大公约数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最大公约数.py)
 * [最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最小公倍数.py)
+* [结尾0的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾0的个数.py)
 
 #### 困难
 
