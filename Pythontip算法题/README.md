@@ -50,6 +50,9 @@
 * [最大公约数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最大公约数.py)
 * [最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/最小公倍数.py)
 * [结尾0的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾0的个数.py)
+* [Python之美](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/Python之美.py)
+* [光棍的悲伤](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/光棍的悲伤.py)
+* [结尾非零数的奇偶性](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾非零数的奇偶性.py)
 
 #### 困难
 
