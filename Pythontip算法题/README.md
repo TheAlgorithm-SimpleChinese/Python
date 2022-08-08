@@ -53,6 +53,9 @@
 * [Python之美](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/Python之美.py)
 * [光棍的悲伤](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/光棍的悲伤.py)
 * [结尾非零数的奇偶性](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾非零数的奇偶性.py)
+* [公约数的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/公约数的个数.py)
+* [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大小写转换.py)
+* [逆解最大公约数和最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/逆解最大公约数和最小公倍数.py)
 
 #### 困难
 
