@@ -56,6 +56,11 @@
 * [公约数的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/公约数的个数.py)
 * [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大小写转换.py)
 * [逆解最大公约数和最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/逆解最大公约数和最小公倍数.py)
+* [365or366](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/365or366.py)
+* [信息加密](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/信息加密.py)
+* [单身情歌](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/单身情歌.py)
+* [回文子串](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/回文子串.py)
+* [时间就是金钱](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/时间就是金钱.py)
 
 #### 困难
 
