@@ -61,6 +61,7 @@
 * [单身情歌](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/单身情歌.py)
 * [回文子串](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/回文子串.py)
 * [时间就是金钱](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/时间就是金钱.py)
+* [序列判断](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/序列判断.py)
 
 #### 困难
 
