@@ -63,6 +63,7 @@
 * [时间就是金钱](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/时间就是金钱.py)
 * [序列判断](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/序列判断.py)
 * [加油站](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/加油站.py)
+* [相同数字](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/相同数字.py)
 
 #### 困难
 
