@@ -37,6 +37,7 @@
 #### 简单
 
 * [a+b](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/a%2Bb.py)
+* [判断三角形](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/判断三角形.py)
 
 #### 中等
 
