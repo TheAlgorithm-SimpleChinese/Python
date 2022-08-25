@@ -38,6 +38,7 @@
 
 * [a+b](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/a%2Bb.py)
 * [判断三角形](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/判断三角形.py)
+* [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大小写转换.py)
 
 #### 中等
 
@@ -55,7 +56,7 @@
 * [光棍的悲伤](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/光棍的悲伤.py)
 * [结尾非零数的奇偶性](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾非零数的奇偶性.py)
 * [公约数的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/公约数的个数.py)
-* [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大小写转换.py)
+
 * [逆解最大公约数和最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/逆解最大公约数和最小公倍数.py)
 * [365or366](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/365or366.py)
 * [信息加密](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/信息加密.py)
