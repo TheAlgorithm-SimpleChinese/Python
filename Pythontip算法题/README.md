@@ -56,7 +56,6 @@
 * [光棍的悲伤](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/光棍的悲伤.py)
 * [结尾非零数的奇偶性](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/结尾非零数的奇偶性.py)
 * [公约数的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/公约数的个数.py)
-
 * [逆解最大公约数和最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/逆解最大公约数和最小公倍数.py)
 * [365or366](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/365or366.py)
 * [信息加密](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/信息加密.py)
@@ -67,6 +66,7 @@
 * [加油站](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/加油站.py)
 * [相同数字](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/相同数字.py)
 * [National Day](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/National Day.py)
+* [山峰的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/山峰的个数.py)
 
 #### 困难
 
