@@ -68,6 +68,7 @@
 * [National Day](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/National Day.py)
 * [山峰的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/山峰的个数.py)
 * [三角形形状](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/三角形形状.py)
+* [大幂次运算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大幂次运算.py)
 
 #### 困难
 
