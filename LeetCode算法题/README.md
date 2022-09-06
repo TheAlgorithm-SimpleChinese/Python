@@ -36,6 +36,9 @@
 
 #### 简单
 
+* [两数之和_暴力枚举](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/两数之和_暴力枚举.py)
+* [两数之和_哈希表法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/两数之和_哈希表法.py)
+
 #### 中等
 
 #### 困难
