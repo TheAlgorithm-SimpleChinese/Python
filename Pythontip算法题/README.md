@@ -65,7 +65,7 @@
 * [序列判断](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/序列判断.py)
 * [加油站](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/加油站.py)
 * [相同数字](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/相同数字.py)
-* [National_Day](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/National Day.py)
+* [National_Day](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/National_Day.py)
 * [山峰的个数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/山峰的个数.py)
 * [三角形形状](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/三角形形状.py)
 * [大幂次运算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/大幂次运算.py)
