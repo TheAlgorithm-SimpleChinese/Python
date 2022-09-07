@@ -41,6 +41,9 @@
 
 #### 中等
 
+* [盛最多水的容器——暴力法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/盛最多水的容器_暴力法.py)
+* [盛最多水的容器——双指针](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/盛最多水的容器_双指针.py)
+
 #### 困难
 
 
