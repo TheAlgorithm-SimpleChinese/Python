@@ -41,7 +41,7 @@ if __name__ == '__main__':
     target = 6
     solve2 = Solution()
     print(solve2.twoSum(nums, target))
-    # 示例2
+    # 示例3
     nums = [3, 3]
     target = 6
     solve3 = Solution()
