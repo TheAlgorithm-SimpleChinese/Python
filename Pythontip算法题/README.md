@@ -39,6 +39,7 @@
 * [a+b](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/a%2Bb.py)
 * [判断三角形](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/判断三角形.py)
 * [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/大小写转换.py)
+* [勾股定理](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/勾股定理.py)
 
 #### 中等
 
