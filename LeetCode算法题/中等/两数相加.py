@@ -31,8 +31,9 @@ class Solution:
             if l2:
                 val = l2.val + val
                 l2 = l2.next
-
+            # tmp表示进位
             tmp = val // 10
+            # val表示保留位
             val = val % 10
 
             # 实现链表的连接
