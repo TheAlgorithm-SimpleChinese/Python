@@ -45,6 +45,7 @@
 * [盛最多水的容器——双指针](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/盛最多水的容器_双指针.py)
 * [两数相加](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/两数相加.py)
 * [无重复字符的最长子串_字典](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/无重复字符的最长子串_字典.py)
+* [三数之和_排序_双指针](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/三数之和_排序_双指针.py)
 
 #### 困难
 
