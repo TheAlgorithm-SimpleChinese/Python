@@ -2,7 +2,7 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 寻找两个正序数组的中位数_归并.py
+@file: 寻找两个正序数组的中位数_归并排序.py
 @time: 2022/9/15 8:12
 """
 
