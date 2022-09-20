@@ -2,7 +2,7 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 最长回文子串.py
+@file: 最长回文子串_动态规划.py
 @time: 2022/9/20 16:02
 """
 
