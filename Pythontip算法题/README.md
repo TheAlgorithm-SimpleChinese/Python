@@ -41,6 +41,7 @@
 * [大小写转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/大小写转换.py)
 * [勾股定理](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/勾股定理.py)
 * [列表转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/列表转换.py)
+* [输出格式](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/输出格式.py)
 
 #### 中等
 
