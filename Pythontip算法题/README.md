@@ -75,6 +75,7 @@
 * [逆解最大公约数和最小公倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/逆解最大公约数和最小公倍数.py)
 * [整数解](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/整数解.py)
 * [杨辉三角](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/杨辉三角.py)
+* [超级楼梯](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/超级楼梯.py)
 
 #### 困难
 
