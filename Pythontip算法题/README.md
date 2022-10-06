@@ -76,6 +76,8 @@
 * [整数解](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/整数解.py)
 * [杨辉三角](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/杨辉三角.py)
 * [超级楼梯](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/超级楼梯.py)
+* [取石子游戏](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/取石子游戏.py)
+* [砝码问题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/砝码问题.py)
 
 #### 困难
 
