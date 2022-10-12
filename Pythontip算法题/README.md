@@ -81,6 +81,8 @@
 * [砝码问题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/砝码问题.py)
 * [降序排序](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/降序排序.py)
 * [因子平方和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/因子平方和.py)
+* [乘法运算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/乘法运算.py)
+* [切西瓜](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/切西瓜.py)
 
 #### 困难
 
