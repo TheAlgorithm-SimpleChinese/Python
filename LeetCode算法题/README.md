@@ -48,6 +48,7 @@
 * [三数之和——排序——双指针](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/三数之和_排序_双指针.py)
 * [最长回文子串——动态规划](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/最长回文子串_动态规划.py)
 * [最长回文子串——中心扩展法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/最长回文子串_中心扩展法.py)
+* [组合总和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/中等/组合总和.py)
 
 #### 困难
 
