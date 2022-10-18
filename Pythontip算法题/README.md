@@ -84,6 +84,7 @@
 * [乘法运算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/乘法运算.py)
 * [切西瓜](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/切西瓜.py)
 * [平分果子](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/平分果子.py)
+* [IP判断](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/IP判断.py)
 
 #### 困难
 
