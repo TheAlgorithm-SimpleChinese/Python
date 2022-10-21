@@ -86,6 +86,7 @@
 * [平分果子](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/平分果子.py)
 * [IP判断](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/IP判断.py)
 * [买苹果](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/买苹果.py)
+* [异或求和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/异或求和.py)
 
 #### 困难
 
