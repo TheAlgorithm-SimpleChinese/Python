@@ -91,6 +91,7 @@
 #### 困难
 
 * [密码生成](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/困难/密码生成.py)
+* [质数的数目](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/困难/质数的数目.py)
 
 
 
