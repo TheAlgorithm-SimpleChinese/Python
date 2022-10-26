@@ -89,6 +89,7 @@
 * [异或求和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/异或求和.py)
 * [全排列](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/全排列.py)
 * [排序的精髓](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/排序的精髓.py)
+* [整数划分](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/整数划分.py)
 
 #### 困难
 
