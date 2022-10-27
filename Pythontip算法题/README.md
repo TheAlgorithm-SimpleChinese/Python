@@ -90,6 +90,7 @@
 * [全排列](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/全排列.py)
 * [排序的精髓](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/排序的精髓.py)
 * [整数划分](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/整数划分.py)
+* [圆的面积](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/圆的面积.py)
 
 #### 困难
 
