@@ -92,6 +92,7 @@
 * [整数划分](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/整数划分.py)
 * [圆的面积](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/圆的面积.py)
 * [史上最简单的计算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/史上最简单的计算.py)
+* [矩阵乘方和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/矩阵乘方和.py)
 
 #### 困难
 
