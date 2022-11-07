@@ -94,6 +94,7 @@
 * [史上最简单的计算](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/史上最简单的计算.py)
 * [矩阵乘方和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/矩阵乘方和.py)
 * [约瑟夫问题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/约瑟夫问题.py)
+* [田忌赛马](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/田忌赛马.py)
 
 #### 困难
 
