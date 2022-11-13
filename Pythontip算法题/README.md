@@ -96,6 +96,7 @@
 * [约瑟夫问题](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/约瑟夫问题.py)
 * [田忌赛马](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/田忌赛马.py)
 * [完美数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/完美数.py)
+* [阶乘除法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/阶乘除法.py)
 
 #### 困难
 
