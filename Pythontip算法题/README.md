@@ -99,6 +99,7 @@
 * [阶乘除法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/阶乘除法.py)
 * [汉诺塔](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/汉诺塔.py)
 * [最小路径和](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/最小路径和.py)
+* [吃糖果](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/吃糖果.py)
 
 #### 困难
 
