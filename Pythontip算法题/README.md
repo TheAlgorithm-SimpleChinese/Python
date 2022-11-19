@@ -102,6 +102,7 @@
 * [吃糖果](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/吃糖果.py)
 * [list深度](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/list深度.py)
 * [幸运树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/幸运树.py)
+* [路径总数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/路径总数.py)
 
 #### 困难
 
