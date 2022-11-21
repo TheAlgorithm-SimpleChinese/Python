@@ -103,6 +103,7 @@
 * [list深度](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/list深度.py)
 * [幸运树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/幸运树.py)
 * [路径总数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/路径总数.py)
+* [单身狗](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/单身狗.py)
 
 #### 困难
 
