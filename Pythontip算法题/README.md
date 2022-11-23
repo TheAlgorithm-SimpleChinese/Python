@@ -104,6 +104,7 @@
 * [幸运树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/幸运树.py)
 * [路径总数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/路径总数.py)
 * [单身狗](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/单身狗.py)
+* [求解幂方程](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/求解幂方程.py)
 
 #### 困难
 
