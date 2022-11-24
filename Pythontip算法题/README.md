@@ -43,6 +43,7 @@
 * [列表转换](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/列表转换.py)
 * [输出格式](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/输出格式.py)
 * [换位置](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/换位置.py)
+* [月饼节快乐](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/简单/月饼节快乐.py)
 
 #### 中等
 
