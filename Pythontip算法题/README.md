@@ -109,6 +109,8 @@
 * [本原串](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/本原串.py)
 * [计算两点间的距离](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/计算两点间的距离.py)
 * [一个萝卜一个坑](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/一个萝卜一个坑.py)
+* [特殊的倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/特殊的倍数.py)
+* [字符串编辑](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/字符串编辑.py)
 
 #### 困难
 
