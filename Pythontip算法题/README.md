@@ -112,6 +112,7 @@
 * [特殊的倍数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/特殊的倍数.py)
 * [字符串编辑](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/字符串编辑.py)
 * [欧拉函数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/欧拉函数.py)
+* [小Py的计算器](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/Pythontip算法题/中等/小Py的计算器.py)
 
 #### 困难
 
