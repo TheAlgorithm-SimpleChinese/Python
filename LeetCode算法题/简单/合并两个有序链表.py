@@ -6,7 +6,6 @@
 @time: 2022/12/7 20:40
 """
 
-
 # 题目链接：https://leetcode.cn/problems/merge-two-sorted-lists/?favorite=2cktkvj
 """
 解题思路：
@@ -22,6 +21,8 @@ or：如果 or 前面的表达式已经为 True，那么 or 之后的表达式�
 修改 l1 的 next 属性为递归函数返回值
 返回 l1，注意：如果 l1 和 l2 同时为 None，此时递归停止返回 None
 """
+
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
@@ -41,7 +42,7 @@ class Solution:
 # 示例
 if __name__ == '__main__':
     # 示例1
-    l1 = ListNode(1)
+    l1 = ListNode(1)  # 结点
     l1.next = ListNode(2)
     l1.next.next = ListNode(4)
     l2 = ListNode(1)
