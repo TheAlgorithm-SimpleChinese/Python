@@ -42,6 +42,7 @@
 * [合并两个有序链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/合并两个有序链表.py)
 * [树的中序遍历](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/树的中序遍历.py)
 * [爬楼梯](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/爬楼梯.py)
+* [对称二叉树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/对称二叉树.py)
 
 #### 中等
 
