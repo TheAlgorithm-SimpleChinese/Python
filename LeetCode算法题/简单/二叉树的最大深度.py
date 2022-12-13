@@ -2,7 +2,7 @@
 """
 @author: liuyang
 @software: PyCharm
-@file: 合并两个有序链表.py
+@file: 二叉树的最大深度.py
 @time: 2022/12/13 15:03
 """
 # 题目链接：https://leetcode.cn/problems/maximum-depth-of-binary-tree/?favorite=2cktkvj
