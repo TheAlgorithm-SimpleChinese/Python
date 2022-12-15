@@ -27,6 +27,9 @@
 那就是当前的节点是空的，既然是空的那就没啥好遍历。
 """
 
+# Definition for a binary tree node.
+
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
