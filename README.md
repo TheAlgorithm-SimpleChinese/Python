@@ -17,8 +17,6 @@
   </a>
   <img src="https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square" height="20">
   <a>
-    <img src="https://img.shields.io/github/workflow/status/hopetree/izone/Docker%20Image%20CI?logo=github" height="20" alt="Discord chat">
-  </a>
   <a>
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
@@ -27,6 +25,7 @@
 <!-- Short description: -->
   <h3>项目中所有用Python实现的算法仅用于学习</h3>
 </div>
+
 
 项目中实现这些算法的目的仅用于记录与学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们!
 
@@ -42,6 +41,7 @@
 * **[The-beauty-of-data-structure-and-algorithm](https://github.com/liuyang-work/The-beauty-of-data-structure-and-algorithm)**
 * **[Pythontip](http://www.pythontip.com/coding/code_oj)**
 * **[LeetCode](https://leetcode-cn.com/problem-list/2cktkvj/)**
+
 ## 算法目录
 
 ### [数据结构与算法](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/README.md)
