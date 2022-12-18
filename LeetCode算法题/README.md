@@ -16,9 +16,7 @@
     <img src="https://my-git-hub-1302050737.cos.ap-beijing.myqcloud.com/Profile/donate.svg" height="20" alt="Donate">
   </a>
   <img src="https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square" height="20">
-  <a>
-    <img src="https://img.shields.io/github/workflow/status/hopetree/izone/Docker%20Image%20CI?logo=github" height="20" alt="Discord chat">
-  </a>
+   </a>
   <a>
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
@@ -27,6 +25,7 @@
 <!-- Short description: -->
   <h3>项目中所有用Python实现的算法仅用于学习</h3>
 </div>
+
 
 项目中实现这些算法的目的仅用于记录与学习，且由于它们的效率可能低于 Python 标准库中的实现，因此请自行决定是否使用它们!
 
@@ -44,6 +43,7 @@
 * [爬楼梯](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/爬楼梯.py)
 * [对称二叉树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/对称二叉树.py)
 * [二叉树的最大深度](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/二叉树的最大深度.py)
+* [反转链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/反转链表.py)
 
 #### 中等
 
