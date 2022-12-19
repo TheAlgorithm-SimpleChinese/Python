@@ -44,6 +44,7 @@
 * [对称二叉树](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/对称二叉树.py)
 * [二叉树的最大深度](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/二叉树的最大深度.py)
 * [反转链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/反转链表.py)
+* [只出现一次的数字](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/只出现一次的数字.py)
 
 #### 中等
 
