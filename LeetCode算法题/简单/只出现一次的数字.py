@@ -28,3 +28,5 @@ class Solution:
 if __name__ == '__main__':
     solve1 = Solution()
     print(solve1.singleNumber([2, 2, 1]))
+    solve2 = Solution()
+    print(solve2.singleNumber([4, 4, 2]))
