@@ -48,6 +48,7 @@
 * [环形链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/环形链表.py)
 * [相交链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/相交链表.py)
 * [多数元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/多数元素.py)
+* [移动零](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/移动零.py)
 
 #### 中等
 
