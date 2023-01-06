@@ -49,6 +49,7 @@
 * [相交链表](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/相交链表.py)
 * [多数元素](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/多数元素.py)
 * [移动零](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/移动零.py)
+* [比特位计数](https://github.com/TheAlgorithm-SimpleChinese/Python/blob/main/LeetCode算法题/简单/比特位计数.py)
 
 #### 中等
 
